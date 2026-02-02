@@ -1,7 +1,7 @@
 ## Hi, I’m Areena Aji 👋
 
-I’m a Computer Science graduate who enjoys learning by building and experimenting with technology.  
-I like understanding how systems work and improving my skills through hands-on projects.
+I’m a Computer Science graduate currently working as an **Associate** with a focus on **UI/UX and frontend development**.  
+I enjoy building intuitive interfaces, understanding how systems work, and continuously improving through hands-on projects.
 
 🎓 **B.Tech in Computer Science and Engineering**  
 Mar Athanasius College of Engineering (KTU)
@@ -9,16 +9,17 @@ Mar Athanasius College of Engineering (KTU)
 ---
 
 ### 🛠 Skills
-- **Languages:** C, Python, Java  
-- **Web:** HTML, CSS, JavaScript *(learning)*  
-- **Backend & Database:** PHP, MySQL  
-- **Interests:** Machine Learning, UI/UX, Full-stack Development  
+- **Programming Languages:** C, Python, Java  
+- **Frontend:** HTML, CSS, JavaScript, React *(working knowledge)*  
+- **Backend & Databases:** PHP, MySQL, MongoDB  
+- **UI/UX:** User-centered design, wireframing, design thinking  
+- **Interests:** UI/UX, frontend development, full-stack fundamentals  
 
 ---
 
 ### 🤝 Open to
-- Collaborating on small projects  
-- Learning through real-world development  
+- Collaborating on meaningful projects  
+- Learning through real-world product development  
 
 ---
 
@@ -29,4 +30,4 @@ Mar Athanasius College of Engineering (KTU)
 ---
 
 ### ⚡ Fun fact
-Serious about learning, consistent with effort.
+Consistent learner with a strong eye for detail.
